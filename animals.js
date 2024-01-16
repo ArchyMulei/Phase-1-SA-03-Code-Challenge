@@ -1,5 +1,5 @@
 // Define the base URL for the API server
-const API_BASE_URL = 'http://127.0.0.1:4000'
+const API_BASE_URL = 'http://localhost:3000/characters'
 
 // Get a reference to the element with id "animalList" in the HTML
 const animalListElement = document.getElementById('animalList')
